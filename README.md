@@ -14,3 +14,6 @@ Origin of images and recipes
 https://www.allrecipes.com/chicken-chip-bake-recipe-11883909
 https://www.allrecipes.com/greek-stuffed-peppers-with-orzo-recipe-11714302
 https://www.allrecipes.com/recipe/236564/chana-masala-savory-indian-chick-peas/
+
+Assisting web pages
+https://phrogz.net/CSS/vertical-align/index.html
