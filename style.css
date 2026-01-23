@@ -12,7 +12,7 @@ body {
 
 .menu-bar {
     border: 4px solid black;
-    background-color: red;
+    background-color: blue;
     position: relative;
     height: 64px;
     margin: 0px;
@@ -31,6 +31,10 @@ body {
 
 .link-item {
     padding-left: 8px;
+}
+
+.page {
+    padding: 0px 16px 16px 16px;
 }
 
 
