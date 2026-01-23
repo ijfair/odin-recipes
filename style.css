@@ -11,17 +11,20 @@ body {
 }
 
 .menu-item {
-    float: right;
+    display: inline;
+    position: absolute;
+    right: 8px;
+    top: 50%;
+    margin-top: -13px;
     height: 26px;
-    margin: 11px;
     border: 4px dashed green;
 }
 
 .menu-bar {
     border: 4px solid black;
     background-color: red;
-    height: 64px;
     position: relative;
+    height: 64px;
     margin: 0px;
     padding: 8px;
 }
