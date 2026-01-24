@@ -1,7 +1,7 @@
 * {
     box-sizing: border-box;
     color: #353535;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: Helvetica,Arial , sans-serif;
 }
 body {
     background-color: #D5D5D5;
@@ -25,9 +25,10 @@ body {
     display: inline;
     position: absolute;
     right: 8px;
-    top: 50%;
-    margin-top: -13px;
     height: 26px;
+    top: 50%;
+    margin-top: -9px;
+
 }
 
 .link-item {
